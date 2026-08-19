@@ -1,4 +1,4 @@
-# Meu primeiro repoitório 
+# Meu primeiro repositório 
 
 Projeto criado para praticar
 versionamento com Git e Github
